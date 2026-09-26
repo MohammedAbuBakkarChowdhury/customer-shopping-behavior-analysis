@@ -73,7 +73,6 @@ The dataset contains:
 | psycopg2 | PostgreSQL database connectivity |
 | pgAdmin 4 | PostgreSQL database management |
 | Power BI | Interactive dashboard development |
-| GitHub | Project documentation and version control |
 
 ---
 
